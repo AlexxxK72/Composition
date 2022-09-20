@@ -1,7 +1,8 @@
-package com.kolushkin.composition
+package com.kolushkin.composition.presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.kolushkin.composition.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
